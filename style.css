@@ -1,0 +1,21 @@
+div#content div.qepi{
+	padding-left: 300px;
+}
+h1.epi{
+	color: blueviolet;
+	padding-left: 120px;
+}
+img{
+	padding-left: 100px;
+	font-size: 10px;
+}
+
+h2.epi{
+	color: #FE8D03;
+	font-size: 40px;
+	padding-top: 15px;
+}
+
+body{
+	background-color: brown;
+}
